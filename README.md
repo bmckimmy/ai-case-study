@@ -38,4 +38,3 @@ Viz.ai. n.d. “Our Story.” Accessed October 28, 2023. 					https://www.viz.ai
 Viz.ai. n.d. “Welcome to the future of patient care. Powered by AI, delivered by Viz.ai® One.” Accessed 	October 28, 2023. https://www.viz.ai/vizai-one
 West Monroe. 2022. “2023 Outlook: The Future of the Healthcare Industry.” Accessed October 28, 2023. 	https://www.westmonroe.com/perspectives/report/healthcare-	outlook?atrkid=V3ADWED098667_142679836515_kwd-	307802130123__645369105790_g_c___&utm_source=google&utm_medium=cpc&utm_term=l	atest%20trends%20in%20healthcare&utm_content=!acq!v3!142679836515_kwd-	307802130123__645369105790_g_c__&utm_campaign=Search+-+Prospecting+-+Generic+-	+Industries+-+Healthcare+%28HLS%29-+2022&gclid=CjwKCAjwv-2pBhB-	EiwAtsQZFPEppMP5AIbhYQqze_ZDKOfjyMe3jc9NZSw_iotFyaUd69MxdV8bDRoC4b0QAv	D_BwE. 
 WhatIs.com. n.d. “What is Chat GPT?” Accessed October 28, 2023. 	https://www.techtarget.com/whatis/definition/ChatGPT 
-
