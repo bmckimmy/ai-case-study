@@ -1,8 +1,6 @@
 # ai-case-study
 A Case Study of Viz.ai, Top 10 AI Technology Startups
 
-A Case Study of Viz.ai, Top 10 AI Technology Startups
-
 Introduction
 Viz.ai is a software company that is the leading care of artificial intelligence. Their mission is to use artificial intelligence to accelerate care coordination for healthcare patients, and reducing systemic delays that stand between patients and life-saving treatments; thus, providing an innovative way of using technology to transform clinical workflow and patient care. (Viz.ai. n.d.) [^8] The AI-powered Viz.ai Platform identifies more patients with a particular disease and then informs all critical decisions at this point of care, and optimizes care pathways to help improve the outcomes. (Viz.ai. 2023). [^7]
 Story
