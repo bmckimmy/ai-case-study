@@ -28,15 +28,15 @@ To improve on future products and services for Viz.ai, I would recommend using C
 
 ## References:
 
-[^1]:[Assurant. 2023. “AI Competitive Advantage: How to Innovate Beyond Products.” 			Accessed October 28, 2023.] (https://www.assurant.com/news-insight/insights/culture-and-	innovations/article/AI-innovation-goes-beyond-your-product.) 
-[^2]:[Assurant. n.d. “Assurant Mission, Vision, and Values.” Accessed October 28, 2023.] 	(https://www.comparably.com/companies/assurant/mission.)
-[^3]:[CB Insights. n.d. “Viz.ai’s alternatives and competitors.” Accessed October 28, 2023.] 	(https://www.cbinsights.com/company/vizai/alternatives-competitors.) 
-[^4]:[Comparably. n.d. “Viz.ai Company Culture, Scored on 18 Different Metrics.” Accessed October 28, 2023.] 	(https://www.comparably.com/companies/viz-ai-20500/culture.) 
-[^5]:[Tracxn. 2023. “Viz.ai company profile.” Accessed October 28, 2023.] 	(https://tracxn.com/d/companies/viz.ai/__pLnNiYtOhW8i6sEaq0xwbIoGOoaGOyWPl2ujRB17-	jc.) 
+[^1]:[Assurant. 2023. “AI Competitive Advantage: How to Innovate Beyond Products.” Accessed October 28, 2023.](https://www.assurant.com/news-insight/insights/culture-and-	innovations/article/AI-innovation-goes-beyond-your-product.) 
+[^2]:[Assurant. n.d. “Assurant Mission, Vision, and Values.” Accessed October 28, 2023.](https://www.comparably.com/companies/assurant/mission.)
+[^3]:[CB Insights. n.d. “Viz.ai’s alternatives and competitors.” Accessed October 28, 2023.](https://www.cbinsights.com/company/vizai/alternatives-competitors.) 
+[^4]:[Comparably. n.d. “Viz.ai Company Culture, Scored on 18 Different Metrics.” Accessed October 28, 2023.](https://www.comparably.com/companies/viz-ai-20500/culture.) 
+[^5]:[Tracxn. 2023. “Viz.ai company profile.” Accessed October 28, 2023.](https://tracxn.com/d/companies/viz.ai/__pLnNiYtOhW8i6sEaq0xwbIoGOoaGOyWPl2ujRB17-	jc.) 
 [^6]:[Viz.ai. 2023. “New Clinical Data Supports Viz.ai Solutions for Improved Pulmonary Embolism Detection 	and Care Coordination.” Accessed October 28, 2023.] (https://www.viz.ai/news/new-clinical-data-	supports-viz-ai-solution-for-improved-pulmonary-embolism-detection-and-care-	coordination#:~:text=Viz.ai%20is%20the%20pioneer,in%20the%20U.S.%20and%20Europe.) 
-[^7]:[Viz.ai. 2023. “Viz.ai Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2023.” 	Accessed October 28, 2023.] (https://www.viz.ai/news/viz-ai-named-to-forbes-ai-50-list-of-top-	artificial-intelligence-companies-of-2023.)  
-[^8]:[Viz.ai. n.d. “Our Story.” Accessed October 28, 2023.] 					(https://www.viz.ai/our-	story#:~:text=Viz.ai%20was%20inspired%20by,patient%20her%20life%2C%20neurosurgeon%2	0	Dr.)
-[^9]:[Viz.ai. n.d. “Welcome to the future of patient care. Powered by AI, delivered by Viz.ai® One.” 	Accessed October 28, 2023.] (https://www.viz.ai/vizai-one)
-[^10]:[West Monroe. 2022. “2023 Outlook: The Future of the Healthcare Industry.” Accessed October 28, 2023.]	(https://www.westmonroe.com/perspectives/report/healthcare-	outlook?atrkid=V3ADWED098667_142679836515_kwd-	307802130123__645369105790_g_c___&utm_source=google&utm_medium=cpc&utm_term=l	atest%20trends%20in%20healthcare&utm_content=!acq!v3!142679836515_kwd-	307802130123__645369105790_g_c__&utm_campaign=Search+-+Prospecting+-+Generic+-	+Industries+-+Healthcare+%28HLS%29-+2022&gclid=CjwKCAjwv-2pBhB-	EiwAtsQZFPEppMP5AIbhYQqze_ZDKOfjyMe3jc9NZSw_iotFyaUd69MxdV8bDRoC4b0QAv	D_BwE.) 
+[^7]:[Viz.ai. 2023. “Viz.ai Named to Forbes AI 50 List of Top Artificial Intelligence Companies of 2023.” Accessed October 28, 2023.](https://www.viz.ai/news/viz-ai-named-to-forbes-ai-50-list-of-top-	artificial-intelligence-companies-of-2023.)  
+[^8]:[Viz.ai. n.d. “Our Story.” Accessed October 28, 2023.] (https://www.viz.ai/our-	story#:~:text=Viz.ai%20was%20inspired%20by,patient%20her%20life%2C%20neurosurgeon%2	0	Dr.)
+[^9]:[Viz.ai. n.d. “Welcome to the future of patient care. Powered by AI, delivered by Viz.ai® One.” 	Accessed October 28, 2023.](https://www.viz.ai/vizai-one)
+[^10]:[West Monroe. 2022. “2023 Outlook: The Future of the Healthcare Industry.” Accessed October 28, 2023.](https://www.westmonroe.com/perspectives/report/healthcare-	outlook?atrkid=V3ADWED098667_142679836515_kwd-	307802130123__645369105790_g_c___&utm_source=google&utm_medium=cpc&utm_term=l	atest%20trends%20in%20healthcare&utm_content=!acq!v3!142679836515_kwd-	307802130123__645369105790_g_c__&utm_campaign=Search+-+Prospecting+-+Generic+-	+Industries+-+Healthcare+%28HLS%29-+2022&gclid=CjwKCAjwv-2pBhB-	EiwAtsQZFPEppMP5AIbhYQqze_ZDKOfjyMe3jc9NZSw_iotFyaUd69MxdV8bDRoC4b0QAv	D_BwE.) 
 [^11]:[WhatIs.com. n.d. “What is Chat GPT?” Accessed October 28, 2023.] 	(https://www.techtarget.com/whatis/definition/ChatGPT) 
 
